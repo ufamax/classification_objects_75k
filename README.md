@@ -1,4 +1,4 @@
-# Распределение деталей по классам на примере предобученных моделей
-# (плюс своя модель на базе UNET архитектуры)
-# Датасет:
+# OBJECT CLASSIFICATION USING PRETRAINED MODELS
+# (plus own model based on UNET architecture)
+# Dataset:
 https://www.kaggle.com/datasets/nolewit/simple-images-dataset
